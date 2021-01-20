@@ -20,5 +20,3 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* Si hay ERROR fijarse desde 02:26:49
