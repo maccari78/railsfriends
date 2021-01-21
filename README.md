@@ -1,6 +1,6 @@
-# Friends list app with Ruby on Rails
+# FriendsApp CRUD with Login on Ruby on Rails
 
->Hi, my name is Danilo Maccari and this is my work practice with Ruby on Rails List of friends with logins
+>Hi, my name is Danilo Maccari and this is my work practice with Ruby on Rails
 </br>
 </br>
 </br>
