@@ -4,7 +4,8 @@
 </br>
 </br>
 </br>
-You have not concluded your merge. (MERGE_HEAD exists)
-The easiest solution I found for this:
-    git commit -m "fixing merge conflicts"
-    git push
+You have not concluded your merge. (MERGE_HEAD exists)</br>
+The easiest solution I found for this:</br>
+
+    - git commit -m "fixing merge conflicts"
+    - git push
