@@ -2,4 +2,4 @@
 
 >Hi, my name is Danilo Maccari and this is my work practice with Ruby on Rails
 <br>
->https://maccari78railsfriends.herokuapp.com/
+https://maccari78railsfriends.herokuapp.com/
